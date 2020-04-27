@@ -1,0 +1,5 @@
+Import declarations are not supported by current JavaScript version:
+
+    https://blog.csdn.net/qq_38446250/article/details/80276625
+    点击File里的Settings
+    找到Languages&Frameworks下的JavaScript,把版本从默认的5.1改为6就好了
